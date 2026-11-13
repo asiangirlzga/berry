@@ -25,8 +25,8 @@ import android.widget.Toast;
 
 public class MainActivity extends Activity {
 
-    private static final String HOME_URL = "https://beautyberry.free.nf/";
-    private static final String HOST = "beautyberry.free.nf";
+    private static final String HOME_URL = "https://berry.gt.tc/";
+    private static final String HOST = "berry.gt.tc";
 
     private WebView web;
     private ProgressBar progress;
